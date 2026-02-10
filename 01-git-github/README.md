@@ -9,7 +9,7 @@ Gunakan daftar di bawah ini untuk menelusuri sub-folder dan memantau progres bel
 
 ### 📁 [01-intro-setup](./01-intro-setup/)
 *Dasar-dasar dan persiapan lingkungan.*
-- [*] 01. Apa itu Version Control System (VCS)?
+- [x] 01. Apa itu Version Control System (VCS)?
 - [ ] 02. Perbedaan Centralized vs Distributed VCS.
 - [ ] 03. Sejarah singkat Git.
 - [ ] 04. Mengapa Data Scientist/AI Engineer butuh Git?
