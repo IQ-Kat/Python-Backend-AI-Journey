@@ -1,4 +1,3 @@
-```markdown
 # 📘 Bab 02: Perbedaan Centralized vs Distributed VCS
 
 > **Tujuan Belajar:**
