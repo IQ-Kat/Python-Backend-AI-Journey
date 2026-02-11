@@ -41,6 +41,7 @@
 > **Tips:** 
 > * **Arrow Up/Down:** Tekan panah atas/bawah untuk memanggil kembali perintah yang sudah pernah diketik.
 > * **Tab Completion:** Ketik 2-3 huruf awal folder lalu tekan **TAB** untuk melengkapi nama otomatis. Ini cara paling ampuh menghindari typo!
+> * **Brace Expansion:** Gunakan `mkdir -p projek/{folder1,folder2/isifolder2}` gunakan untuk membuat 1 folder dengan 2 jalur folder sekaligus, tentu bisa juga menggunakan `mkdir -p projek/folder1 projek/folder2/isifolder2`, cara pertama lebih bersih.
 >
 > **Peringatan:** 
 > * **Case Sensitivity:** Di Git Bash, `Projek` dan `projek` itu berbeda. Biasakan gunakan **huruf kecil semua**.
