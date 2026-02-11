@@ -39,7 +39,7 @@ git config --list
 ## 💡 Tips & Peringatan
 
 > **Tips:**
-> Pastikan email yang kamu daftarkan **sama persis** dengan email akun GitHub-mu. Ini penting agar setiap *commit* yang kamu kirim terbaca sebagai kontribusi resmi dan memunculkan **"Green Dots"** (grafik hijau) di profil GitHub-mu.
+> Pastikan email yang kamu daftarkan **sama persis** dengan email akun GitHub-mu. Ini penting agar setiap *commit* yang kamu kirim terbaca sebagai kontribusi resmi dan memunculkan **"Green Dots"** (grafik hijau) di profil GitHub-mu, Gunakan email noreply dari GitHub (Settings > Emails) jika ingin menjaga privasi email asli namun tetap ingin mendapatkan kontribusi "Green Dots".
 > **Peringatan:**
 > * Jika namamu mengandung spasi, **wajib** gunakan tanda kutip dua `" "`.
 > * Periksa kembali typo sebelum menekan Enter. Identitas ini akan menempel secara permanen pada sejarah *commit* yang kamu buat.
