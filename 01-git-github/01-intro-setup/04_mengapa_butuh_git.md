@@ -18,8 +18,8 @@
 
 > **Tips:** Selalu commit perubahan pada file dependensi setiap kali kamu melakukan `pip install` baru. Ini memastikan laptop i3 rekanmu atau server di Cloud nantinya akan menjalankan kode dengan kondisi yang identik dengan laptopmu.
 > **Peringatan:**
-> **1. Jupyter Notebook (.ipynb):** File ini sebenarnya adalah JSON raksasa. Jika kamu mengubah satu cell, Git akan mendeteksi banyak sekali perubahan teknis (metadata) yang sulit dibaca manusia.Jangan Commit file Jupyter Notebook (.ipynb) jika tidak ada perubahan kode atau logika di dalamnya.
-> **2. Binary Data:** Git tidak dirancang untuk menyimpan dataset 10GB atau model .pth yang sangat berat. Git hanya menyimpan pointernya saja(bayangkan saja dia hanya menyimpan alamat atau resep) jika menggunakan Git LFS atau DVC namun secara default dia akan memaksa menyimpan full jadi bisa bisa .git membengkak hingga bergiga-giga
+> * **Jupyter Notebook (.ipynb):** File ini sebenarnya adalah JSON raksasa. Jika kamu mengubah satu cell, Git akan mendeteksi banyak sekali perubahan teknis (metadata) yang sulit dibaca manusia.Jangan Commit file Jupyter Notebook (.ipynb) jika tidak ada perubahan kode atau logika di dalamnya.
+> * **Binary Data:** Git tidak dirancang untuk menyimpan dataset 10GB atau model .pth yang sangat berat. Git hanya menyimpan pointernya saja(bayangkan saja dia hanya menyimpan alamat atau resep) jika menggunakan Git LFS atau DVC namun secara default dia akan memaksa menyimpan full jadi bisa bisa .git membengkak hingga bergiga-giga
 
 ---
 
