@@ -14,7 +14,6 @@
 ## 💡 Tips & Peringatan
 
 > **Tips:** Jalankan perintah `git config --global core.autocrlf true` untuk pengguna Windows agar Git otomatis menangani perbedaan format baris file (LF vs CRLF) antara laptopmu dan server.
->
 > **Peringatan:** Pastikan **Git Credential Manager** tercentang saat instalasi. Ini memudahkanmu saat melakukan `push` ke GitHub karena kamu tidak perlu mengetik username/password secara manual setiap saat.
 
 ---
