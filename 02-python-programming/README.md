@@ -10,7 +10,7 @@ Gunakan daftar di bawah ini untuk memantau perjalanan belajar Python kamu.
 ### 📁 [01-setup-basics](./01-setup-basics/)
 *Persiapan lingkungan dan pengenalan sintaks.*
 - [x] 01. Perbedaan Python 2 vs Python 3 (3.10+).
-- [ ] 02. Instalasi Python Interpreter.
+- [x] 02. Instalasi Python Interpreter.
 - [ ] 03. Mengenal Package Manager: pip dan conda.
 - [ ] 04. Virtual Environments: venv atau conda env.
 - [ ] 05. Pengenalan IDE: VS Code, PyCharm, dan Jupyter Notebook.
