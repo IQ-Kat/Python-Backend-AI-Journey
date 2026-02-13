@@ -21,7 +21,7 @@ Gunakan daftar di bawah ini untuk menelusuri sub-folder dan memantau progres bel
 
 ### 📁 [02-basic-workflow](./02-basic-workflow/)
 *Siklus kerja lokal (Add, Commit, Log).*
-- [ ] 10. Inisialisasi Repository (`git init`).
+- [x] 10. Inisialisasi Repository (`git init`).
 - [ ] 11. Memahami Tiga Area Git.
 - [ ] 12. Menelusuri Status File (`git status`).
 - [ ] 13. Menambah ke Staging Area (`git add`).
