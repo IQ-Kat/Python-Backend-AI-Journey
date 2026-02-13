@@ -16,7 +16,7 @@ Gunakan daftar di bawah ini untuk menelusuri sub-folder dan memantau progres bel
 - [x] 05. Instalasi Git (Windows).
 - [x] 06. Terminal/Command Line Dasar.
 - [x] 07. Konfigurasi user.name & user.email.
-- [ ] 08. Konfigurasi Editor Default.
+- [x] 08. Konfigurasi Editor Default.
 - [ ] 09. Cek konfigurasi (`git config --list`).
 
 ### 📁 [02-basic-workflow](./02-basic-workflow/)
