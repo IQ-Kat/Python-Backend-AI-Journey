@@ -1,0 +1,1 @@
+Tes Configurasi commit tanpa -m
