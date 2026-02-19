@@ -2,7 +2,6 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,windows,venv,virtualenv,visualstudiocode,database
 Template_Catatan.md
 .obsidian
-main.py
 .vscode
 ### Database ###
 *.accdb
