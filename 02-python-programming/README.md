@@ -13,7 +13,7 @@ Gunakan daftar di bawah ini untuk memantau perjalanan belajar Python kamu.
 - [x] 02. Instalasi Python Interpreter.
 - [x] 03. Mengenal Package Manager: pip dan conda.
 - [x] 04. Virtual Environments: venv atau conda env.
-- [ ] 05. Pengenalan IDE: VS Code, PyCharm, dan Jupyter Notebook.
+- [x] 05. Pengenalan IDE: VS Code, PyCharm, dan Jupyter Notebook.
 - [ ] 06. Struktur Folder Project Python Profesional.
 - [ ] 07. Aturan Indentasi.
 - [ ] 08. Komentar (#) dan Docstrings ("""...""").
