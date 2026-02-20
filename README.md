@@ -12,7 +12,7 @@ Berikut adalah 25 modul yang saya pelajari secara bertahap:
 | No | Modul Materi | Status | Folder |
 |:---|:---|:---:|:---|
 | 01 | Version Control (Git/GitHub) | ⏳ | [Buka](./01-git-github) |
-| 02 | Pemrograman Python | 🌑 | [Buka](./02-python-programming) |
+| 02 | Pemrograman Python | ⏳ | [Buka](./02-python-programming) |
 | 03 | SQL & Data Wrangling | 🌑 | [Buka](./03-sql-wrangling) |
 | 04 | Matematika untuk AI | 🌑 | [Buka](./04-math-for-ai) |
 | 05 | Statistika dan Probabilitas | 🌑 | [Buka](./05-stats-prob) |
