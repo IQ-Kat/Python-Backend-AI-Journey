@@ -62,7 +62,7 @@ print("Data berhasil dimuat ke RAM")
 
 > **Tips:** Gunakan **VS Code Profiles** untuk memisahkan ekstensi Python AI dengan ekstensi lainnya agar VS Code tetap ringan saat dijalankan.
 >
-> **Peringatan:** Jangan pernah menyimpan **Secret Key** (API Key Gemini, Password DB) di dalam file `.ipynb` (Jupyter). File ini adalah JSON transparan; datamu akan sangat mudah bocor saat di-*upload* ke GitHub!
+> **Peringatan:** Jangan pernah menyimpan **Secret Key** (API Key, Password DB) di dalam file `.ipynb` (Jupyter). File ini adalah JSON transparan; datamu akan sangat mudah bocor saat di-*upload* ke GitHub!
 
 ---
 
